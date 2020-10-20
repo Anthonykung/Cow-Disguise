@@ -11,6 +11,8 @@
  * Created with <3 by Anthony Kung
  */
 
+console.log('Cow Disguise\nCreated with <3 by Anthony Kung (anth.dev)');
+
 function pwdAuth() {
   var chk = 'Carrot:P';
   var pwd = document.getElementById('pwd').value;
